@@ -6,3 +6,8 @@ CSS and JS files do not need to clear cached files when changes occur. Now, code
 ----------
 * [Original project](https://github.com/skeeks-semenov/yii2-assets-auto-compress)
 
+Installation:
+```
+composer require --prefer-dist weikaiii/yii2-auto-compress "*"
+```
+
